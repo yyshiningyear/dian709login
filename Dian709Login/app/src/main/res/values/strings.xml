@@ -1,7 +1,0 @@
-<resources>
-    <string name="app_name">Dian709Login</string>
-
-    <string name="send">发送</string>
-    <string name="action_settings">Settings</string>
-    <string name="title_activity_chat">ChatActivity</string>
-</resources>
